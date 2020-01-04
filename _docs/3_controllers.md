@@ -7,6 +7,7 @@
  Список контроллеров
     
     php artisan route:list
+    php artisan route:list > routes.txt
  
  Контроллеры приложения
  
