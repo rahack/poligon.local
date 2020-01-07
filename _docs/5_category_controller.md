@@ -11,3 +11,7 @@
 Создание контроллера
     
     php artisan make:controller Blog/Admin/CategoryController --resource
+
+Создание надстройки для Request
+    
+    php artisan make:request BlogCategoryUpdateRequest
