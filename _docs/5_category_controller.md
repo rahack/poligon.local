@@ -15,3 +15,4 @@
 Создание надстройки для Request
     
     php artisan make:request BlogCategoryUpdateRequest
+    php artisan make:request BlogCategoryCreateRequest
